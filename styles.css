@@ -1,0 +1,47 @@
+ul.dropdown-menu li:last-child button{
+    color:red;
+}
+div.container-fluid.col{
+    padding: 0 4rem;
+}
+div.nav-buttons.col-3.row {
+    justify-content: right;
+}
+div.photo-grid{
+ padding:5rem 10rem;   
+}
+div.row.mx-0.col-4{
+    padding:0.5rem;
+    max-width: 600px;
+    max-height: 350px;
+    overflow: hidden;
+}
+div.row.mx-0.col-4 img{
+    padding:0%;
+    margin: 0%;
+    width: 100%;
+    object-fit:contain;
+}
+li.nav-item i{
+    font-size: 20px;
+}
+ul{
+    padding-top: 20px;
+}
+div.single-grid.row.m-2.col-6{
+    border: solid rgba(99, 94, 94, 0.616) 0.1rem;
+}
+.post-header.row.mx-0.g-2.col-12 span{
+    text-align:right;
+    font-size:1.5rem;
+}
+div.post-body img{
+    max-width:100%;
+}
+div.post-footer p{
+    padding:0.2rem 0;
+    font-size: 1.5rem;
+}
+div.post-footer span{
+    font-size: 1.5rem;
+}
